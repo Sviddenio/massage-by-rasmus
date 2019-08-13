@@ -1,0 +1,20 @@
+.header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background: #a2a8a7;
+    color: rgb(0, 0, 0);
+}
+.header a{
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background: #a2a8a7;
+    color: rgb(0, 0, 0);
+
+}
+.header-right {
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:  20px;
+}
